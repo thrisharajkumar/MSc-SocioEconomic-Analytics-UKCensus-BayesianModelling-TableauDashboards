@@ -1,0 +1,9 @@
+# Force Python detection
+*.py linguist-language=Python
+
+# Force Jupyter Notebooks to still be counted
+*.ipynb linguist-language=Jupyter Notebook
+
+# Treat Tableau files as "Tableau"
+*.twb linguist-language=Tableau
+*.twbx linguist-language=Tableau
