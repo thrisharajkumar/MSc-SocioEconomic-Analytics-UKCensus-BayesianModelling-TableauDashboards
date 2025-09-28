@@ -1,5 +1,10 @@
 # MSc Socio-Economic Analytics: UK Census 2011–2021 with Bayesian Modelling & Tableau Dashboards
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-orange?logo=tableau)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 This repository contains my MSc Data Science project **"Exploring Socio-Economic Analytics using Bayesian Modelling and Interactive Tableau Dashboards"**, conducted at the **University of Bristol (Mar–May 2025)**.  
 The project investigates **education, employment, occupation, and immigration trends** across **348 Local Authority Districts (LADs)** in England and Wales, comparing the **2011 and 2021 UK Census**.
 
